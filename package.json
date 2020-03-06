@@ -1,0 +1,23 @@
+{
+  "name": "find-useless-files-plugin",
+  "version": "1.0.0",
+  "description": "An easy webpack plugin for helping remove useless files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangyaoFkr/find-useless-files-plugin.git"
+  },
+  "keywords": [
+    "webpack plugin",
+    "find-useless-files-plugin"
+  ],
+  "author": "zhangyaoFkr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangyaoFkr/find-useless-files-plugin/issues"
+  },
+  "homepage": "https://github.com/zhangyaoFkr/find-useless-files-plugin#readme"
+}
