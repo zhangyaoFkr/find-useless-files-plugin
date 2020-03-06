@@ -29,4 +29,4 @@ module.exports = {
 }
 ```
 ## Result
-![](./result.png)
+<img src="https://raw.githubusercontent.com/zhangyaoFkr/find-useless-files-plugin/master/result.png" width="450" alt="result.png">
